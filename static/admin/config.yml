@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: krock07/bookmark-with-gatsby
 
 media_folder: static/assets
 public_folder: assets
